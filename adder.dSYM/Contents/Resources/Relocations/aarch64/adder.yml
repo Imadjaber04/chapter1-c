@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/imadjaber/C_Programming/Chapter01/adder'
+relocations:     []
+...
