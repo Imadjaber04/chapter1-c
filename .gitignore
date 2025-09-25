@@ -1,0 +1,11 @@
+# macOS system files
+.DS_Store
+*.dSYM/
+
+# Compiled files
+a.out
+*.o
+
+# Editor-specific files
+.vscode/
+.idea/
